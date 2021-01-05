@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nishanth
 #### I am Developer 
-![I am Developer ](https://firebasestorage.googleapis.com/v0/b/instagram-clone-nishanth.appspot.com/o/images%2FSpace%20(13)(1).jpg?alt=media&token=e293be22-08d0-4248-891d-63632c639554)
 
 I am Nishanth. I am a developer at my home. I really enjoy learning frameworks or libraries like React, Angular, React-Native
 
