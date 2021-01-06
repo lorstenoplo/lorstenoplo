@@ -3,12 +3,12 @@
 
 I am Nishanth. I am a developer at my home. I really enjoy learning frameworks or libraries like React, Angular, React-Native
 
-Skills: REACT / JS / HTML / CSS
+Skills: NEXT JS, REACT, JS, HTML, CSS
 
-- 🔭 I’m currently working on React Native. 
+- 🔭 I’m currently working on React Native & Flutter 
 - 🌱 I’m currently learning React Native & Styled components 
-- 🤔 I’m looking for help with Styled components 
-- 💬 Ask me about Html,csss,javascript 
+- 🤔 I’m looking for help with Styled components & Flutter  
+- 💬 Ask me about Html,css,javascript, jss, react js   
 - 📫 How to reach me: https://twitter.com/don08611250 
 - ⚡ Fun fact: I also paint, draw and love reading 
 
